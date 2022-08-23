@@ -1,2 +1,20 @@
-#Kodluyoruz ilk Repo
--
+# **Kodluyoruz ilk Repo**
+-Bu repo [kodluyoruz](https://app.patika.dev/paths) Front End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet READ.md dosyası,bir adet  license ve bir markdown barındırıyor.
+
+## **Installation**
+* Öncelikle projeyi klonlayın.[Faruk Selim Duman projesi](https://github.com/FSDuman/kodluyoruzilrepo)
+
+```git clone https://github.com/FSDuman/kodluyoruzilrepo ```
+
+### ***Kullanım***
+-***Projeyi kodladıktan sonra Visual studio code programını açınız.*** 
+- Linux için
+```
+ #cd kodluyoruzilkrepo 
+ code.
+ ```
+ #### *Katkınız memnuniyetle kabul edilir.* 
+> Katkı sunmak için:
+Mail adresim olan [Faruk selim](farukselimduman8@gmail.com) adresine mail yollayabilirsiniz teşşekür ederim.
+##### License
+[MIT](https://choosealicense.com/licenses/mit/)
